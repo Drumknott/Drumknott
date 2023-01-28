@@ -2,7 +2,7 @@
 
 Thanks for visiting my page. I'm an amateur dev who works in C# and Python. I'm a big fan of games so a lot of my projects tend to be game related. 
 
-I'm about to finish a coding bootcamp with hyperiondev.com and I'm actively hunting for graduate/entery-level/junior dev jobs, so please get in touch with me if you're interested.
+I've just finished a coding bootcamp with hyperiondev.com (with an average grade of 100%!) and I'm actively hunting for graduate/entery-level/junior dev jobs, so please get in touch with me if you're interested.
 
 
 Some of my C# work;
